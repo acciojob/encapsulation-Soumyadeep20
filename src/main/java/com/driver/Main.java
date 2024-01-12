@@ -8,7 +8,7 @@ public class Main {
         System.out.println(a.var);
         output: java: var has private access in com.driver.RWOnly
          */
-        a.setName(2);
+        a.setName("Soumo");
         System.out.println(a.getName());//output: 2
     }
   
